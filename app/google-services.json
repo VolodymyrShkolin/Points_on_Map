@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "956421717167",
+    "project_id": "points-on-map",
+    "storage_bucket": "points-on-map.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956421717167:android:a3576456fefd3bcfe2e85a",
+        "android_client_info": {
+          "package_name": "com.bignerdranch.android.points_on_map"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956421717167-me47j117cd51c52u426kbkelegrm4emv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2TcCj604jfeP8GRBUA-DjH3Wm3sJZ5mw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956421717167-me47j117cd51c52u426kbkelegrm4emv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
